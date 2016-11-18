@@ -1,0 +1,4 @@
+timestamp,levelname,module,message
+"2016-06-15 17:57:54,715",INFO,ch09_r10,Sample Message One
+"2016-06-15 17:57:54,715",DEBUG,ch09_r10,Debugging
+"2016-06-15 17:57:54,715",WARNING,ch09_r10,Something might have gone wrong

@@ -1,0 +1,15 @@
+---
+? !!python/tuple [loss, 1]
+: 2
+? !!python/tuple [loss, 7]
+: 1
+? !!python/tuple [loss, 8]
+: 1
+? !!python/tuple [win, 2]
+: 3
+? !!python/tuple [win, 4]
+: 1
+? !!python/tuple [win, 6]
+: 1
+? !!python/tuple [win, 15]
+: 1
