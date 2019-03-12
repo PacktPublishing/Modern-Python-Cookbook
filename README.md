@@ -1,9 +1,8 @@
-#Modern Python Cookbook
-This is the code repository for [Modern Python Cookbook](Current URL?utm_source=github&utm_medium=repository&utm_campaign=9781786469250), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
-##Instructions and Navigations
+# Modern Python Cookbook
+This is the code repository for [Modern Python Cookbook](https://www.packtpub.com/application-development/modern-python-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786469250), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+
+## Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
-
-
 
 The code will look like the following:
 ```
@@ -17,11 +16,9 @@ The code will look like the following:
 
 All you need to follow through the examples in this book is a computer running any recent version of Python. While the examples all use Python 3, they can be adapted to work with Python 2 only a few changes.
 
-##Related Products
-* [Python Data Visualization Cookbook](Current URL?utm_source=github&utm_medium=repository&utm_campaign=9781782163367 )
+## Related Products
+* [Python Testing Cookbook - Second Edition](https://www.packtpub.com/application-development/python-testing-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787122529)
 
-* [Python Testing Cookbook](Current URL?utm_source=github&utm_medium=repository&utm_campaign=9781849514668)
+* [Python Network Programming Cookbook - Second Edition](https://www.packtpub.com/networking-and-servers/python-network-programming-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786463999)
 
-* [Python Network Programming Cookbook](Current URL?utm_source=github&utm_medium=repository&utm_campaign=9781849513463)
-###Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+* [Python Data Visualization Cookbook - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-data-visualization-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781784396695)
