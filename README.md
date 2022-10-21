@@ -22,3 +22,7 @@ All you need to follow through the examples in this book is a computer running a
 * [Python Network Programming Cookbook - Second Edition](https://www.packtpub.com/networking-and-servers/python-network-programming-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786463999)
 
 * [Python Data Visualization Cookbook - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-data-visualization-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781784396695)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781786469250">https://packt.link/free-ebook/9781786469250 </a> </p>
